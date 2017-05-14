@@ -1,0 +1,49 @@
+# Basic
+title: Jo's Bookshelf
+subtitle: Programming is beautiful, just like a gorgeous scene.
+welcome_message:
+description: WoW！很高兴在这里能看到你，你可以叫我 Jo，一名iOS开发者兼自由摄影家，正在通过各种各样的阅读，沉淀技术，寻觅灵感。
+creator: <a href="jo.html">@Jo</a>
+
+url: ""
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo:
+    github:
+    twitter:
+    gplus: 106693852923727744772
+    mail: nul.zhou@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
