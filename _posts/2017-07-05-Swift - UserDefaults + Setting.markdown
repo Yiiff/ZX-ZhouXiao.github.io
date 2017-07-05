@@ -4,8 +4,6 @@ title: Swift - UserDefaults + Setting
 date: 2017-07-05 15:15:18.000000000 +09:00
 ---
 
-## Swift - UserDefaults + Setting
-
 > 项目中有很多需要设定的地方, 是否开启通知或者自动登录一类, 对此类的值一般会写入UserDefault中, 下面则是对UserDefault和设置的一点封装
 
 取经自`Apple ARKitExample`:
