@@ -111,5 +111,9 @@ Objc中经常使用`@selector()`，其实这里用的就是`SEL`，只不过表�
 ![](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Art/messaging1.gif)
 
 
+### 如何动态方法解析，将在下篇中做解释
+
+
+
 
 
