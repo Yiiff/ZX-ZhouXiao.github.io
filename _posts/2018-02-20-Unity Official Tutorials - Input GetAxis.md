@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unity Official Tutorials - Input GetAxis
-date: 2017-02-07 13:50:0.000000000 +09:00
+date: 2018-02-20 13:50:0.000000000 +09:00
 ---
 
 > 返回值类型: Float
