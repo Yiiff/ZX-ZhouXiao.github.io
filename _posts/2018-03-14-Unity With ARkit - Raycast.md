@@ -4,8 +4,6 @@ title: Unity With ARKit: Raycast
 date: 2018-03-14 09:20:0.000000000 +09:00
 ---
 
-## Unity With ARKit: Raycast
-
 > 在与**ARKit**的开发中, 与虚拟物体的交互是必不可少的内容
 
 **目标:**
@@ -16,13 +14,13 @@ date: 2018-03-14 09:20:0.000000000 +09:00
 **API: Physics.Raycast**
 
 
-| Paramaters |  |
-| --- | --- |
-| origin | The starting point of the ray in world coordinates. 世界坐标系中射线的原点. |
-| direction | The direction of the ray 射线的方向. |
-| maxDixtance | The max distance the ray should check for collisions. 射线的最远投射距离|
-| layerMask |  A Layer mask that is used to selectively ignore Colliders when casting a ray. 射线投射过程中可以选择性忽略的Mask.|
-| queryTriggerInteraction |  Specifies whether this query should hit Triggers. 指定此查询是否应触发触发器.|
+| Paramaters              |                                          |
+| ----------------------- | ---------------------------------------- |
+| origin                  | The starting point of the ray in world coordinates. 世界坐标系中射线的原点. |
+| direction               | The direction of the ray 射线的方向.          |
+| maxDixtance             | The max distance the ray should check for collisions. 射线的最远投射距离 |
+| layerMask               | A Layer mask that is used to selectively ignore Colliders when casting a ray. 射线投射过程中可以选择性忽略的Mask. |
+| queryTriggerInteraction | Specifies whether this query should hit Triggers. 指定此查询是否应触发触发器. |
 
 
 从某一位置, 发射一条射线, 若射线接触到物体, 则会返回目标的位置信息:
