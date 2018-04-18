@@ -13,7 +13,7 @@ date: 2018-04-18 14:37:0.000000000 +09:00
 1. git fetch 之后, 执行了pull操作, merge仓库的代码到本地
 2. 一番修改之后, 执行push操作, 然而失败了
 
-![image-20180418142130429](/var/folders/bv/d_vrfz9j6qx3g2tn83kl3qc40000gn/T/abnerworks.Typora/image-20180418142130429.png)
+![image-20180418142130429](https://github.com/ZX-ZhouXiao/MarkDown-Photos/blob/master/image-20180418142130429.png?raw=true)
 
 这就很迷了, 明明配过ssh key, why??
 
