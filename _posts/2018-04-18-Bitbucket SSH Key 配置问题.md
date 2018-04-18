@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 2018-04-18-Bitbucket SSH Key 配置问题
+title: Bitbucket SSH Key 配置问题
 date: 2018-04-18 14:37:0.000000000 +09:00
 ---
-
-## Bitbucket SSH Key 配置问题
 
 > Bitbucket的私有库用起来还是很舒坦的. 但是最近遇到一个很奇怪的问题, 虽然解决了, 但是还是觉得记上一笔.
 
